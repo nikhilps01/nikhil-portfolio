@@ -61,7 +61,7 @@ This edition adds:
 - Responsive mobile layouts for all new sections
 
 
-## Part 1 sections
+## Part 2 sections
 
 - Animated hero
 - About profile
