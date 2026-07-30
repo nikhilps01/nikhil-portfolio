@@ -1,4 +1,4 @@
-# Nikhil NEXUS V5 Portfolio
+# Nikhil Portfolio
 
 A completely redesigned, photo-free React + Vite portfolio with advanced animations and a built-in Project Studio.
 
